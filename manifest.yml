@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 1024M
-  host: devops-tutorial
-  name: devops-tutorial
+  host: devops-ose-20171214
+  name: devops-ose-20171214
   command: node app.js
   path: .
   instances: 1
